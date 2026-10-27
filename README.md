@@ -20,7 +20,7 @@ His own words (lightly cleaned up):
 
 > I made Test get access to User Administrator only when they needed it. They have to get permission and request access in order to have that role or that power, and they had it for only one hour. I saw what they did in the log, and everything was recorded. I also hit an error: you have to wait at least 5 minutes before deactivating their privilege.
 
-*Interview line (coach-written at his request, from his one-page IAM Labs doc):*
+*Interview line:*
 
 > "I set up Entra PIM so Test User was only eligible for User Administrator. To use it, they had to request it with a reason, pass MFA, and get my approval, and it expired after one hour. Every step showed up in the PIM audit log. I also hit a real rule: you can't deactivate a role in its first 5 minutes."
 
