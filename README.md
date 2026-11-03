@@ -16,8 +16,6 @@ Standing admin rights are one of the easiest ways for an attacker, or a mistake,
 
 ## What I learned
 
-His own words (lightly cleaned up):
-
 > I made Test get access to User Administrator only when they needed it. They have to get permission and request access in order to have that role or that power, and they had it for only one hour. I saw what they did in the log, and everything was recorded. I also hit an error: you have to wait at least 5 minutes before deactivating their privilege.
 
 ## Key screenshots
